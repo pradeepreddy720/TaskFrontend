@@ -1,0 +1,22 @@
+export const contactus = "contact us";
+export const trackorder = "track order";
+export const notifications = "notifications";
+export const freedelivery = "free delivery on all orders";
+export const addtobag = "add to bag";
+export const wishlist = "wishlist";
+export const profile = "profile";
+export const addressBook = "address book";
+export const orders="orders";
+export const wallet="UV wallet";
+export const logout="logout";
+export const SKUlabel = "Product code";
+export const addtocart = "Add to cart";
+export const pdpdateAvaliable = "Check Delivery Date Availability";
+export const prodDicreption = "Product Description";
+export const shortprodDicreption = "Highlights";
+export const colorlabel = "color";
+export const sizelabel = "size";
+export const sizechart = "size chart >";
+export const qtylabel = "quantity"
+export const viewdetails = "view details";
+
